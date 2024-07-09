@@ -1,0 +1,63 @@
+
+
+/* top-header */
+
+.top-header{
+    display: flex;
+    gap: 10px;
+    padding: 50px 150px;
+    justify-content: space-between;
+}
+.up-to-header{
+    font-size: 28px;
+    font-weight: 800;
+}
+.download-resume{
+    padding: 17px 24px;
+    border-radius: 8px;
+    font-size: 20px;
+    
+}
+
+/* header */
+
+.header{
+    height: 655px;
+    width: 100%;
+    background-image: url('../assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    padding: 26px 197px 45px 245px;
+    
+}
+
+.person-pic{
+    height: 240px;
+    width: 240px;
+}
+
+.heading-img{
+    
+    width: 1000px;
+    text-align: center;
+}
+
+.heading-title{
+    width: 1000px;
+    text-align: center;
+}
+
+.heading-sub-title{
+    font-size: 48px;
+    font-weight: 800;
+}
+    
+
+.contact-btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffff;
+    padding: 21px 24px;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+}
