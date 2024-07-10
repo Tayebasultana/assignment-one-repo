@@ -27,31 +27,24 @@
     background-image: url('../assets/Hero-bg.png');
     background-repeat: no-repeat;
     padding: 26px 197px 45px 245px;
-    
 }
-
 .person-pic{
     height: 240px;
     width: 240px;
 }
-
 .heading-img{
     
     width: 1000px;
     text-align: center;
 }
-
 .heading-title{
     width: 1000px;
     text-align: center;
 }
-
 .heading-sub-title{
     font-size: 48px;
     font-weight: 800;
 }
-    
-
 .contact-btn{
     font-size: 20px;
     font-weight: 600;
@@ -60,4 +53,186 @@
     background-color: black;
     border-radius: 8px;
     border: none;
+}
+
+
+/* main */
+
+/* why web dev section */
+
+.why-web-dev-one{
+height: 1300px;
+width: 80%;
+background-color: lightgrey;
+margin: 20px 80px;
+padding: 50px 50px;
+border-radius: 16px;
+border: none;
+}
+.why-web-dev-two{
+    height: 1000px;
+    width: 100%;
+    
+}
+.why-web-dev-four{
+    flex-direction: column;
+}
+/* .why-web-dev-four div{
+
+} */
+.why-web-dev-three{
+    margin-left: 85px;
+    width: 700px;
+    text-align: center;
+    padding: 50px 144px;
+    
+}
+.why-web-dev-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.why-web-dev-five{
+    padding: 48px;
+    border-radius: 16px;
+    border: none;
+    background-color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.why-web-dev-five-one{
+    display: flex;
+    justify-content: space-between;
+}
+.why-web-dev-five-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.why-web-dev-five-button{
+    font-size: 20px;
+    font-weight: 600;
+}
+.why-web-dev-six{
+    padding: 48px;
+    border-radius: 16px;
+    border: none;
+    background-color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.why-web-dev-six-one{
+    display: flex;
+    justify-content: space-between;
+}
+.why-web-dev-six-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.why-web-dev-six-button{
+    font-size: 20px;
+    font-weight: 600;
+}
+.why-web-dev-seven{
+    padding: 48px;
+    border-radius: 16px;
+    border: none;
+    background-color: #FFFFFF;
+}
+.why-web-dev-seven-one{
+    display: flex;
+    justify-content: space-between;
+}
+.why-web-dev-seven-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.why-web-dev-seven-button{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* my-insparation */
+
+
+.my-inspiration{
+    text-align: center;
+    
+    width: 87%;
+    height: 700px;
+    margin: 20px 80px;
+    border-radius: 16px;
+    border: none;
+    padding-left: 50px;
+}
+.my-inspairation-text-box{
+    width: 850px;
+    padding-left: 200px;
+    margin-bottom: 30px;
+}
+.my-insparation-title{
+font-size: 32px;
+font-weight: 900;
+}
+.iframe-box{
+    height: 500px;
+    width: 90%;
+    
+    border: 3px solid gray;
+    border-radius: 16px;
+    padding: 30px;
+}
+
+
+/* my current target */
+
+.target{
+    width: 80%;
+    margin: 20px 80px;
+    padding-left: 80px;
+    border-radius: 16px;
+    border: none;
+}
+.My-Current-Target{
+    
+}
+.my-current-target-box-one{
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 48px;
+}
+.my-current-target-first-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+.my-current-target-box-two{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.skill-target{
+    width: 250px;
+    border-radius: 16px;
+    padding: 40px;
+    margin-bottom: 140px;
+}
+.My-Current-Target{
+
+}
+.my-current-target-img{
+    height: 56px;
+    width: 56px;
+}
+.my-current-target-title{
+    font-size: 24px;
+    font-weight: 900;
+}
+.more-about-my-current-target{
+    font-weight: bold;
+}
+
+
+.my-next-target-box-one{
+    text-align: center;
+}
+.my-next-target-title{
+    font-size: 32px;
+    font-weight: 800;
 }
